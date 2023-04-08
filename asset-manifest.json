@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/witch-saga-fe/static/css/main.073c9b0a.css",
+    "main.js": "/witch-saga-fe/static/js/main.7b199979.js",
+    "static/js/787.6d9784ae.chunk.js": "/witch-saga-fe/static/js/787.6d9784ae.chunk.js",
+    "index.html": "/witch-saga-fe/index.html",
+    "main.073c9b0a.css.map": "/witch-saga-fe/static/css/main.073c9b0a.css.map",
+    "main.7b199979.js.map": "/witch-saga-fe/static/js/main.7b199979.js.map",
+    "787.6d9784ae.chunk.js.map": "/witch-saga-fe/static/js/787.6d9784ae.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.7b199979.js"
+  ]
+}
