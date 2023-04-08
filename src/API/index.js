@@ -1,5 +1,6 @@
 import request from "./request";
-const baseUrl = "http://localhost:8080/api/v1/witch/";
+const localhost = "http://localhost:8080/api/v1/witch/";
+const heroku = "https://witchapi.herokuapp.com/api/v1/witch/";
 
 const urls = {
   get_solve: "solve",
@@ -28,5 +29,5 @@ const callAPI = async (
 };
 
 export const solve = (data) => {
-  return callAPI(urls.get_solve, "post", {}, {}, data, baseUrl);
+  return callAPI(urls.get_solve, "post", {}, {}, data, heroku);
 };
