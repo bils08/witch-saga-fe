@@ -14,7 +14,7 @@ export default function Form() {
   };
 
   useEffect(() => {
-    if (result?.status !== "OK") {
+    if (result?.status !== "0") {
       setIsHidden(false);
     } else {
       setIsHidden(true);
